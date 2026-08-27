@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-06-08T10:00:00Z",
+  "libraries": {
+    "woo-redsys-gateway-light": {
+      "files": [
+        {
+          "filename": "sis0042-error-significado.md",
+          "topic": "SIS0042 error significado y causas",
+          "tech_stack": "WooCommerce + WordPress",
+          "fetched": "2026-06-08T10:00:00Z",
+          "source": "Context7 API / Redsys Official Docs / GitHub"
+        },
+        {
+          "filename": "configuracion-y-diagnostico.md",
+          "topic": "Configuración del plugin y diagnóstico SIS0042",
+          "tech_stack": "WooCommerce + WordPress",
+          "fetched": "2026-06-08T10:00:00Z",
+          "source": "Context7 API / Redsys Official Docs / WordPress Plugin Page"
+        },
+        {
+          "filename": "codigos-error-redsys.md",
+          "topic": "Códigos de error Redsys SIS - Referencia",
+          "tech_stack": "Redsys General",
+          "fetched": "2026-06-08T10:00:00Z",
+          "source": "GitHub (ssheduardo/sermepa) / Redsys Official Docs"
+        }
+      ]
+    }
+  }
+}
